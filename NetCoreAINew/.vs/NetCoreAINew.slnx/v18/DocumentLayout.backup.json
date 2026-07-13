@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9F31CA95-31D2-410D-9777-85248BEA84C6}|NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition\\NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project04_huggingfacenamedentityrecognition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F31CA95-31D2-410D-9777-85248BEA84C6}|NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition\\NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition.csproj|solutionrelative:netcoreainew.project04_huggingfacenamedentityrecognition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA5F67B3-9E69-4324-A496-B40083175ABC}|NetCoreAINew.Project03_HuggingFaceSummarizeText\\NetCoreAINew.Project03_HuggingFaceSummarizeText.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project03_huggingfacesummarizetext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA5F67B3-9E69-4324-A496-B40083175ABC}|NetCoreAINew.Project03_HuggingFaceSummarizeText\\NetCoreAINew.Project03_HuggingFaceSummarizeText.csproj|solutionrelative:netcoreainew.project03_huggingfacesummarizetext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 603,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,15 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project03_HuggingFaceSummarizeText\\Program.cs",
               "RelativeDocumentMoniker": "NetCoreAINew.Project03_HuggingFaceSummarizeText\\Program.cs",
               "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project03_HuggingFaceSummarizeText\\Program.cs",
               "RelativeToolTip": "NetCoreAINew.Project03_HuggingFaceSummarizeText\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T13:03:17.478Z",
+              "WhenOpened": "2026-07-13T13:35:22.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition\\Program.cs",
+              "RelativeToolTip": "NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T13:28:02.42Z",
               "EditorCaption": ""
             }
           ]
