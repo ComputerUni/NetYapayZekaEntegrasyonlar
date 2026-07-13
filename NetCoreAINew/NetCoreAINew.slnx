@@ -3,4 +3,5 @@
   <Project Path="NetCoreAINew.Project02_HuggingFaceSentimentAnalysis/NetCoreAINew.Project02_HuggingFaceSentimentAnalysis.csproj" Id="c9153798-07a9-4317-ac32-00b7d7ebf36d" />
   <Project Path="NetCoreAINew.Project03_HuggingFaceSummarizeText/NetCoreAINew.Project03_HuggingFaceSummarizeText.csproj" Id="fa5f67b3-9e69-4324-a496-b40083175abc" />
   <Project Path="NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition/NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition.csproj" Id="9f31ca95-31d2-410d-9777-85248bea84c6" />
+  <Project Path="NetCoreAINew.Project05_HuggingFaceRobertaBaseQA/NetCoreAINew.Project05_HuggingFaceRobertaBaseQA.csproj" Id="b9b59b97-bce7-45ec-b87c-a32f225bae1b" />
 </Solution>
