@@ -1,0 +1,14 @@
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project01_DeepGramAIVoice\bin\Debug\net9.0\NetCoreAINew.Project01_DeepGramAIVoice.exe
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project01_DeepGramAIVoice\bin\Debug\net9.0\NetCoreAINew.Project01_DeepGramAIVoice.deps.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project01_DeepGramAIVoice\bin\Debug\net9.0\NetCoreAINew.Project01_DeepGramAIVoice.runtimeconfig.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project01_DeepGramAIVoice\bin\Debug\net9.0\NetCoreAINew.Project01_DeepGramAIVoice.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project01_DeepGramAIVoice\bin\Debug\net9.0\NetCoreAINew.Project01_DeepGramAIVoice.pdb
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project01_DeepGramAIVoice\obj\Debug\net9.0\NetCoreAINew.Project01_DeepGramAIVoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project01_DeepGramAIVoice\obj\Debug\net9.0\NetCoreAINew.Project01_DeepGramAIVoice.AssemblyInfoInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project01_DeepGramAIVoice\obj\Debug\net9.0\NetCoreAINew.Project01_DeepGramAIVoice.AssemblyInfo.cs
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project01_DeepGramAIVoice\obj\Debug\net9.0\NetCoreAINew.Project01_DeepGramAIVoice.csproj.CoreCompileInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project01_DeepGramAIVoice\obj\Debug\net9.0\NetCoreAINew.Project01_DeepGramAIVoice.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project01_DeepGramAIVoice\obj\Debug\net9.0\refint\NetCoreAINew.Project01_DeepGramAIVoice.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project01_DeepGramAIVoice\obj\Debug\net9.0\NetCoreAINew.Project01_DeepGramAIVoice.pdb
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project01_DeepGramAIVoice\obj\Debug\net9.0\NetCoreAINew.Project01_DeepGramAIVoice.genruntimeconfig.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project01_DeepGramAIVoice\obj\Debug\net9.0\ref\NetCoreAINew.Project01_DeepGramAIVoice.dll
