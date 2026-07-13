@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="NetCoreAINew.Project01_DeepGramAIVoice/NetCoreAINew.Project01_DeepGramAIVoice.csproj" />
+  <Project Path="NetCoreAINew.Project02_HuggingFaceSentimentAnalysis/NetCoreAINew.Project02_HuggingFaceSentimentAnalysis.csproj" Id="c9153798-07a9-4317-ac32-00b7d7ebf36d" />
 </Solution>
