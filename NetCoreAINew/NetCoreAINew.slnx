@@ -5,4 +5,5 @@
   <Project Path="NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition/NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition.csproj" Id="9f31ca95-31d2-410d-9777-85248bea84c6" />
   <Project Path="NetCoreAINew.Project05_HuggingFaceRobertaBaseQA/NetCoreAINew.Project05_HuggingFaceRobertaBaseQA.csproj" Id="b9b59b97-bce7-45ec-b87c-a32f225bae1b" />
   <Project Path="NetCoreAINew.Project06_HuggingFaceToxicBert/NetCoreAINew.Project06_HuggingFaceToxicBert.csproj" Id="a01bb39e-7c01-46c1-a82e-6baf10ffc0a3" />
+  <Project Path="NetCoreAINew.Project07_AnthropicClaudeChat/NetCoreAINew.Project07_AnthropicClaudeChat.csproj" Id="eab7df96-ae83-40e5-8b45-3ffc3c13bf30" />
 </Solution>
