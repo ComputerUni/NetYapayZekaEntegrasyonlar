@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NetCoreAINew.Project06_HuggingFaceToxicBert/1.0.0": {
+        "runtime": {
+          "NetCoreAINew.Project06_HuggingFaceToxicBert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreAINew.Project06_HuggingFaceToxicBert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

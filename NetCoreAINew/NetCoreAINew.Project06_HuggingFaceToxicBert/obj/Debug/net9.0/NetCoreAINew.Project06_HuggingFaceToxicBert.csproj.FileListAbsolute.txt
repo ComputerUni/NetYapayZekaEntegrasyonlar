@@ -1,0 +1,15 @@
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\bin\Debug\net9.0\NetCoreAINew.Project06_HuggingFaceToxicBert.exe
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\bin\Debug\net9.0\NetCoreAINew.Project06_HuggingFaceToxicBert.deps.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\bin\Debug\net9.0\NetCoreAINew.Project06_HuggingFaceToxicBert.runtimeconfig.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\bin\Debug\net9.0\NetCoreAINew.Project06_HuggingFaceToxicBert.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\bin\Debug\net9.0\NetCoreAINew.Project06_HuggingFaceToxicBert.pdb
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\obj\Debug\net9.0\NetCoreAINew.Project06_HuggingFaceToxicBert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\obj\Debug\net9.0\NetCoreAINew.Project06_HuggingFaceToxicBert.AssemblyInfoInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\obj\Debug\net9.0\NetCoreAINew.Project06_HuggingFaceToxicBert.AssemblyInfo.cs
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\obj\Debug\net9.0\NetCoreAINew.Project06_HuggingFaceToxicBert.csproj.CoreCompileInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\obj\Debug\net9.0\NetCoreAINew.Project06_HuggingFaceToxicBert.sourcelink.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\obj\Debug\net9.0\NetCoreAINew.Project06_HuggingFaceToxicBert.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\obj\Debug\net9.0\refint\NetCoreAINew.Project06_HuggingFaceToxicBert.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\obj\Debug\net9.0\NetCoreAINew.Project06_HuggingFaceToxicBert.pdb
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\obj\Debug\net9.0\NetCoreAINew.Project06_HuggingFaceToxicBert.genruntimeconfig.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project06_HuggingFaceToxicBert\obj\Debug\net9.0\ref\NetCoreAINew.Project06_HuggingFaceToxicBert.dll
