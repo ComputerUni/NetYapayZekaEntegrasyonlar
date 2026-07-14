@@ -7,4 +7,5 @@
   <Project Path="NetCoreAINew.Project06_HuggingFaceToxicBert/NetCoreAINew.Project06_HuggingFaceToxicBert.csproj" Id="a01bb39e-7c01-46c1-a82e-6baf10ffc0a3" />
   <Project Path="NetCoreAINew.Project07_AnthropicClaudeChat/NetCoreAINew.Project07_AnthropicClaudeChat.csproj" Id="eab7df96-ae83-40e5-8b45-3ffc3c13bf30" />
   <Project Path="NetCoreAINew.Project08_PDFSummarize/NetCoreAINew.Project08_PDFSummarize.csproj" Id="bcdb7cfb-cc9d-4663-a2b1-7c6e66a88f8a" />
+  <Project Path="NetCoreAINew.Project09_JobEmail/NetCoreAINew.Project09_JobEmail.csproj" Id="900bf34e-05bb-42f1-8b14-241aad5590b8" />
 </Solution>
