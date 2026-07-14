@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16e1cf74c7943bd384d2c833e2c3d6fb33d10ec7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fe0afa2d9e16a1f25a42641901bed7828fdda25")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAINew.Project04_HuggingFaceNamedEntityRecognition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

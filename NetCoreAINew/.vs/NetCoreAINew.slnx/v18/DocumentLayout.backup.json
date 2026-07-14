@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAB7DF96-AE83-40E5-8B45-3FFC3C13BF30}|NetCoreAINew.Project07_AnthropicClaudeChat\\NetCoreAINew.Project07_AnthropicClaudeChat.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project07_anthropicclaudechat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAB7DF96-AE83-40E5-8B45-3FFC3C13BF30}|NetCoreAINew.Project07_AnthropicClaudeChat\\NetCoreAINew.Project07_AnthropicClaudeChat.csproj|solutionrelative:netcoreainew.project07_anthropicclaudechat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCDB7CFB-CC9D-4663-A2B1-7C6E66A88F8A}|NetCoreAINew.Project08_PDFSummarize\\NetCoreAINew.Project08_PDFSummarize.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project08_pdfsummarize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDB7CFB-CC9D-4663-A2B1-7C6E66A88F8A}|NetCoreAINew.Project08_PDFSummarize\\NetCoreAINew.Project08_PDFSummarize.csproj|solutionrelative:netcoreainew.project08_pdfsummarize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,19 +36,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project07_AnthropicClaudeChat\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAINew.Project07_AnthropicClaudeChat\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project07_AnthropicClaudeChat\\Program.cs",
-              "RelativeToolTip": "NetCoreAINew.Project07_AnthropicClaudeChat\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAABsAAAA3AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project08_PDFSummarize\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAINew.Project08_PDFSummarize\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project08_PDFSummarize\\Program.cs",
+              "RelativeToolTip": "NetCoreAINew.Project08_PDFSummarize\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T09:56:25.577Z",
+              "WhenOpened": "2026-07-14T11:16:47.572Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 404,
+          "DockedWidth": 571,
           "SelectedChildIndex": -1,
           "Children": [
             {

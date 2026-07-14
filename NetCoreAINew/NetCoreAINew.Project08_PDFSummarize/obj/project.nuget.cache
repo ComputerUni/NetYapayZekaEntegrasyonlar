@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZVyHYHTwgfg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project08_PDFSummarize\\NetCoreAINew.Project08_PDFSummarize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BURHAN\\.nuget\\packages\\pdfpig\\0.1.15\\pdfpig.0.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
