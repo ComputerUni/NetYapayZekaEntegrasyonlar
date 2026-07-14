@@ -1,0 +1,15 @@
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\bin\Debug\net9.0\NetCoreAINew.Project10_DrawImage.exe
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\bin\Debug\net9.0\NetCoreAINew.Project10_DrawImage.deps.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\bin\Debug\net9.0\NetCoreAINew.Project10_DrawImage.runtimeconfig.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\bin\Debug\net9.0\NetCoreAINew.Project10_DrawImage.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\bin\Debug\net9.0\NetCoreAINew.Project10_DrawImage.pdb
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\obj\Debug\net9.0\NetCoreAINew.Project10_DrawImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\obj\Debug\net9.0\NetCoreAINew.Project10_DrawImage.AssemblyInfoInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\obj\Debug\net9.0\NetCoreAINew.Project10_DrawImage.AssemblyInfo.cs
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\obj\Debug\net9.0\NetCoreAINew.Project10_DrawImage.csproj.CoreCompileInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\obj\Debug\net9.0\NetCoreAINew.Project10_DrawImage.sourcelink.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\obj\Debug\net9.0\NetCoreAINew.Project10_DrawImage.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\obj\Debug\net9.0\refint\NetCoreAINew.Project10_DrawImage.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\obj\Debug\net9.0\NetCoreAINew.Project10_DrawImage.pdb
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\obj\Debug\net9.0\NetCoreAINew.Project10_DrawImage.genruntimeconfig.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project10_DrawImage\obj\Debug\net9.0\ref\NetCoreAINew.Project10_DrawImage.dll

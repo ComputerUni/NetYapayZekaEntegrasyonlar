@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NetCoreAINew.Project10_DrawImage/1.0.0": {
+        "runtime": {
+          "NetCoreAINew.Project10_DrawImage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreAINew.Project10_DrawImage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
