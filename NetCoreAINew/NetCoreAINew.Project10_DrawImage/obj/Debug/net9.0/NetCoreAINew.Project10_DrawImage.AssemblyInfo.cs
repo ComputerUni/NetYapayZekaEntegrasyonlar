@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAINew.Project10_DrawImage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d13f787aa7fcbdeb553ab24adcc05a38a5a07df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ed432bfdcaf009229e648cb8a7abbf624f4cb58")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAINew.Project10_DrawImage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAINew.Project10_DrawImage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
