@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NetCoreAINew.Project14_AIQA/1.0.0": {
+        "runtime": {
+          "NetCoreAINew.Project14_AIQA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreAINew.Project14_AIQA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

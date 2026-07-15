@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80C450FD-C9B8-445B-AF10-5D60F54CFB31}|NetCoreAINew.Project13_MicrosoftAzureComputerVisionObjectsAndDetails\\NetCoreAINew.Project13_MicrosoftAzureComputerVisionObjectsAndDetails.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project13_microsoftazurecomputervisionobjectsanddetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80C450FD-C9B8-445B-AF10-5D60F54CFB31}|NetCoreAINew.Project13_MicrosoftAzureComputerVisionObjectsAndDetails\\NetCoreAINew.Project13_MicrosoftAzureComputerVisionObjectsAndDetails.csproj|solutionrelative:netcoreainew.project13_microsoftazurecomputervisionobjectsanddetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{691D6436-1B79-4A69-ADD9-279A8F24978B}|NetCoreAINew.Project12_MicrosoftAzureComputerVision\\NetCoreAINew.Project12_MicrosoftAzureComputerVision.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project12_microsoftazurecomputervision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{691D6436-1B79-4A69-ADD9-279A8F24978B}|NetCoreAINew.Project12_MicrosoftAzureComputerVision\\NetCoreAINew.Project12_MicrosoftAzureComputerVision.csproj|solutionrelative:netcoreainew.project12_microsoftazurecomputervision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A92EA15-E36D-4AA0-83DC-CC32EC001085}|NetCoreAINew.Project14_AIQA\\NetCoreAINew.Project14_AIQA.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project14_aiqa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A92EA15-E36D-4AA0-83DC-CC32EC001085}|NetCoreAINew.Project14_AIQA\\NetCoreAINew.Project14_AIQA.csproj|solutionrelative:netcoreainew.project14_aiqa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,26 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project13_MicrosoftAzureComputerVisionObjectsAndDetails\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAINew.Project13_MicrosoftAzureComputerVisionObjectsAndDetails\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project13_MicrosoftAzureComputerVisionObjectsAndDetails\\Program.cs",
-              "RelativeToolTip": "NetCoreAINew.Project13_MicrosoftAzureComputerVisionObjectsAndDetails\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project14_AIQA\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAINew.Project14_AIQA\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project14_AIQA\\Program.cs",
+              "RelativeToolTip": "NetCoreAINew.Project14_AIQA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T13:27:55.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project12_MicrosoftAzureComputerVision\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAINew.Project12_MicrosoftAzureComputerVision\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project12_MicrosoftAzureComputerVision\\Program.cs",
-              "RelativeToolTip": "NetCoreAINew.Project12_MicrosoftAzureComputerVision\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAACKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T15:06:38.912Z",
+              "WhenOpened": "2026-07-15T13:41:39.374Z",
               "EditorCaption": ""
             }
           ]

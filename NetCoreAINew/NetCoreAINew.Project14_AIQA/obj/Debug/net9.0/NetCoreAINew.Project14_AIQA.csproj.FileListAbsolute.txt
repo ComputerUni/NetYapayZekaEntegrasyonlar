@@ -1,0 +1,15 @@
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\bin\Debug\net9.0\NetCoreAINew.Project14_AIQA.exe
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\bin\Debug\net9.0\NetCoreAINew.Project14_AIQA.deps.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\bin\Debug\net9.0\NetCoreAINew.Project14_AIQA.runtimeconfig.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\bin\Debug\net9.0\NetCoreAINew.Project14_AIQA.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\bin\Debug\net9.0\NetCoreAINew.Project14_AIQA.pdb
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\obj\Debug\net9.0\NetCoreAINew.Project14_AIQA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\obj\Debug\net9.0\NetCoreAINew.Project14_AIQA.AssemblyInfoInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\obj\Debug\net9.0\NetCoreAINew.Project14_AIQA.AssemblyInfo.cs
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\obj\Debug\net9.0\NetCoreAINew.Project14_AIQA.csproj.CoreCompileInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\obj\Debug\net9.0\NetCoreAINew.Project14_AIQA.sourcelink.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\obj\Debug\net9.0\NetCoreAINew.Project14_AIQA.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\obj\Debug\net9.0\refint\NetCoreAINew.Project14_AIQA.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\obj\Debug\net9.0\NetCoreAINew.Project14_AIQA.pdb
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\obj\Debug\net9.0\NetCoreAINew.Project14_AIQA.genruntimeconfig.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project14_AIQA\obj\Debug\net9.0\ref\NetCoreAINew.Project14_AIQA.dll
