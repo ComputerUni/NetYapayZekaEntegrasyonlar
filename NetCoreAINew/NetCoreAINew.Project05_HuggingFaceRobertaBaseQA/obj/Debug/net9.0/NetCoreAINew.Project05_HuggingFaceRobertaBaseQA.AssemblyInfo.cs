@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAINew.Project05_HuggingFaceRobertaBaseQA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+987d5861a784d9128d70ce660c2cfe03664542c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+712d436f3cd671e4b558aa55663253bdb0a62242")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAINew.Project05_HuggingFaceRobertaBaseQA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAINew.Project05_HuggingFaceRobertaBaseQA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
