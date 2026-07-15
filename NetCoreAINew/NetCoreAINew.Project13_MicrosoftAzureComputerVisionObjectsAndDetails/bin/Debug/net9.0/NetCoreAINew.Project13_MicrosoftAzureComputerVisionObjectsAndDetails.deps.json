@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NetCoreAINew.Project13_MicrosoftAzureComputerVisionObjectsAndDetails/1.0.0": {
+        "runtime": {
+          "NetCoreAINew.Project13_MicrosoftAzureComputerVisionObjectsAndDetails.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreAINew.Project13_MicrosoftAzureComputerVisionObjectsAndDetails/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

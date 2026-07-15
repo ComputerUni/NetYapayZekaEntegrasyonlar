@@ -11,4 +11,5 @@
   <Project Path="NetCoreAINew.Project10_DrawImage/NetCoreAINew.Project10_DrawImage.csproj" Id="d2cfeac9-5164-421c-9635-d0f2c83de7b8" />
   <Project Path="NetCoreAINew.Project11_MicrosoftAzureTextToSpeech/NetCoreAINew.Project11_MicrosoftAzureTextToSpeech.csproj" Id="fec458a1-c9cc-4a37-ae41-9e1cd9485553" />
   <Project Path="NetCoreAINew.Project12_MicrosoftAzureComputerVision/NetCoreAINew.Project12_MicrosoftAzureComputerVision.csproj" Id="691d6436-1b79-4a69-add9-279a8f24978b" />
+  <Project Path="NetCoreAINew.Project13_MicrosoftAzureComputerVisionObjectsAndDetails/NetCoreAINew.Project13_MicrosoftAzureComputerVisionObjectsAndDetails.csproj" Id="80c450fd-c9b8-445b-af10-5d60f54cfb31" />
 </Solution>
