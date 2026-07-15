@@ -1,0 +1,15 @@
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\bin\Debug\net9.0\NetCoreAINew.Project15_RoleSimulation.exe
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\bin\Debug\net9.0\NetCoreAINew.Project15_RoleSimulation.deps.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\bin\Debug\net9.0\NetCoreAINew.Project15_RoleSimulation.runtimeconfig.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\bin\Debug\net9.0\NetCoreAINew.Project15_RoleSimulation.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\bin\Debug\net9.0\NetCoreAINew.Project15_RoleSimulation.pdb
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\obj\Debug\net9.0\NetCoreAINew.Project15_RoleSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\obj\Debug\net9.0\NetCoreAINew.Project15_RoleSimulation.AssemblyInfoInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\obj\Debug\net9.0\NetCoreAINew.Project15_RoleSimulation.AssemblyInfo.cs
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\obj\Debug\net9.0\NetCoreAINew.Project15_RoleSimulation.csproj.CoreCompileInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\obj\Debug\net9.0\NetCoreAINew.Project15_RoleSimulation.sourcelink.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\obj\Debug\net9.0\NetCoreAINew.Project15_RoleSimulation.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\obj\Debug\net9.0\refint\NetCoreAINew.Project15_RoleSimulation.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\obj\Debug\net9.0\NetCoreAINew.Project15_RoleSimulation.pdb
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\obj\Debug\net9.0\NetCoreAINew.Project15_RoleSimulation.genruntimeconfig.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project15_RoleSimulation\obj\Debug\net9.0\ref\NetCoreAINew.Project15_RoleSimulation.dll

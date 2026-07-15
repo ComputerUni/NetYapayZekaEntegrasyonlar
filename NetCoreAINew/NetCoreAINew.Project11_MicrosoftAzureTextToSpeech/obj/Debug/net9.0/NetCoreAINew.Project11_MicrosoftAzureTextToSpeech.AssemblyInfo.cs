@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAINew.Project11_MicrosoftAzureTextToSpeech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b94a5766f7838dd69e33bc800fbc858fbd9b373c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d13f787aa7fcbdeb553ab24adcc05a38a5a07df")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAINew.Project11_MicrosoftAzureTextToSpeech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAINew.Project11_MicrosoftAzureTextToSpeech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

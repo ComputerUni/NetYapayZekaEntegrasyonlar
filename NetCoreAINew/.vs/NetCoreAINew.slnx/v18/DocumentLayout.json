@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A92EA15-E36D-4AA0-83DC-CC32EC001085}|NetCoreAINew.Project14_AIQA\\NetCoreAINew.Project14_AIQA.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project14_aiqa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A92EA15-E36D-4AA0-83DC-CC32EC001085}|NetCoreAINew.Project14_AIQA\\NetCoreAINew.Project14_AIQA.csproj|solutionrelative:netcoreainew.project14_aiqa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A2F187F-7BDB-478C-B9CF-AA9AE365B983}|NetCoreAINew.Project15_RoleSimulation\\NetCoreAINew.Project15_RoleSimulation.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project15_rolesimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2F187F-7BDB-478C-B9CF-AA9AE365B983}|NetCoreAINew.Project15_RoleSimulation\\NetCoreAINew.Project15_RoleSimulation.csproj|solutionrelative:netcoreainew.project15_rolesimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1148,
+          "DockedWidth": 1931,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project14_AIQA\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAINew.Project14_AIQA\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project14_AIQA\\Program.cs",
-              "RelativeToolTip": "NetCoreAINew.Project14_AIQA\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project15_RoleSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAINew.Project15_RoleSimulation\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project15_RoleSimulation\\Program.cs",
+              "RelativeToolTip": "NetCoreAINew.Project15_RoleSimulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T13:41:39.374Z",
+              "WhenOpened": "2026-07-15T14:37:00.15Z",
               "EditorCaption": ""
             }
           ]
