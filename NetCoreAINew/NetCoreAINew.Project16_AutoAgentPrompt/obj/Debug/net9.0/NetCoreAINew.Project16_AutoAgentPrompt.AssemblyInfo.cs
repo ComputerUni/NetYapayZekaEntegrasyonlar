@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAINew.Project16_AutoAgentPrompt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b5151feea8fb6cf30ebdcaaa06ee4d2378f4bbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d719109ea864f3347f39f203348b1d58a414f91")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAINew.Project16_AutoAgentPrompt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAINew.Project16_AutoAgentPrompt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
