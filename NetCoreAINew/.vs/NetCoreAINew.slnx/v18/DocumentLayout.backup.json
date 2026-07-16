@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "NetCoreAINew.Project17_CodeEditor\\Program.cs",
               "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project17_CodeEditor\\Program.cs",
               "RelativeToolTip": "NetCoreAINew.Project17_CodeEditor\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-16T06:28:16.787Z",
               "EditorCaption": ""
@@ -91,7 +91,7 @@
               "RelativeDocumentMoniker": "NetCoreAINew.Project07_AnthropicClaudeChat\\Program.cs",
               "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project07_AnthropicClaudeChat\\Program.cs",
               "RelativeToolTip": "NetCoreAINew.Project07_AnthropicClaudeChat\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB4AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwB4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-16T08:29:07.768Z",
               "EditorCaption": ""
@@ -106,8 +106,7 @@
               "RelativeToolTip": "NetCoreAINew.Project03_HuggingFaceSummarizeText\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T08:29:02.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T08:29:02.518Z"
             },
             {
               "$type": "Document",
@@ -119,8 +118,7 @@
               "RelativeToolTip": "NetCoreAINew.Project06_HuggingFaceToxicBert\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T08:28:58.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T08:28:58.174Z"
             },
             {
               "$type": "Document",
@@ -132,8 +130,7 @@
               "RelativeToolTip": "NetCoreAINew.Project15_RoleSimulation\\Program.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T06:39:11.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T06:39:11.348Z"
             },
             {
               "$type": "Document",
@@ -145,8 +142,7 @@
               "RelativeToolTip": "NetCoreAINew.Project09_JobEmail\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T06:32:10.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T06:32:10.825Z"
             }
           ]
         }

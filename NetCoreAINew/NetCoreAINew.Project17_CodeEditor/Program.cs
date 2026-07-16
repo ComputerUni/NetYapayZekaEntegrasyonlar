@@ -52,19 +52,19 @@ class Program
             Console.WriteLine();
 
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Kodunuzu yapıştırın (bitince ENTER'a bas):\n");
+            Console.WriteLine("Kodunuzu yapıştırın (bitince 'DONE' yazın):\n");
             Console.ResetColor();
 
-            var satirlar = new StringBuilder();
-            string satir = Console.ReadLine();
+            var lines = new StringBuilder();
+            string line = Console.ReadLine();
 
-            while (!string.IsNullOrEmpty(satir))
+            while (line != "DONE")
             {
-                satirlar.AppendLine(satir);
-                satir = Console.ReadLine();
+                lines.AppendLine(line);
+                line = Console.ReadLine();
             }
 
-            string code = satirlar.ToString().Trim();
+            string code = lines.ToString().Trim();
 
             string choosePrompt = choose switch
             {
@@ -78,8 +78,12 @@ class Program
             string system = "Sen uzman bir yazılım geliştirme asistanısın. Net ve Türkçe cevaplar ver.";
             string answer = await CodeEditor(choice, choosePrompt, system);
 
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("\nAI Yanıtı:\n");
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("╔══════════════════════════════════════════════╗");
+            Console.WriteLine("║               🤖 AI Yanıtı                   ║");
+            Console.WriteLine("╚══════════════════════════════════════════════╝");
+            Console.ResetColor();
+            Console.WriteLine();
             Console.WriteLine(answer);
             Console.ResetColor();
         }
