@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D61890E-5AE1-4080-B26C-A05EB05CF399}|NetCoreAINew.Project20_SpeechChatBot\\NetCoreAINew.Project20_SpeechChatBot.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project20_speechchatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D61890E-5AE1-4080-B26C-A05EB05CF399}|NetCoreAINew.Project20_SpeechChatBot\\NetCoreAINew.Project20_SpeechChatBot.csproj|solutionrelative:netcoreainew.project20_speechchatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75A765ED-5EC0-431A-9E96-08DCE1001DF6}|NetCoreAINew.Project19_VideoGenerator\\NetCoreAINew.Project19_VideoGenerator.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project19_videogenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75A765ED-5EC0-431A-9E96-08DCE1001DF6}|NetCoreAINew.Project19_VideoGenerator\\NetCoreAINew.Project19_VideoGenerator.csproj|solutionrelative:netcoreainew.project19_videogenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1518,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project19_VideoGenerator\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAINew.Project19_VideoGenerator\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project19_VideoGenerator\\Program.cs",
-              "RelativeToolTip": "NetCoreAINew.Project19_VideoGenerator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:11:19.128Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -44,11 +35,37 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project20_SpeechChatBot\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAINew.Project20_SpeechChatBot\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project20_SpeechChatBot\\Program.cs",
+              "RelativeToolTip": "NetCoreAINew.Project20_SpeechChatBot\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T13:05:31.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project19_VideoGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAINew.Project19_VideoGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project19_VideoGenerator\\Program.cs",
+              "RelativeToolTip": "NetCoreAINew.Project19_VideoGenerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T12:11:19.128Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 1478,
+          "DockedWidth": 571,
           "SelectedChildIndex": -1,
           "Children": [
             {

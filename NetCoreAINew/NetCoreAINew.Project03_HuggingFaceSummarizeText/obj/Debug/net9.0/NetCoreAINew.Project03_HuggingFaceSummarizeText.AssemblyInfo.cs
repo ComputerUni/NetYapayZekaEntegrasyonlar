@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAINew.Project03_HuggingFaceSummarizeText")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8dac5b0e818916e2d8c0062260915c91fc3bea4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7c1418f81f19810ed6ad36253956f00c2eb0735")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAINew.Project03_HuggingFaceSummarizeText")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAINew.Project03_HuggingFaceSummarizeText")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
