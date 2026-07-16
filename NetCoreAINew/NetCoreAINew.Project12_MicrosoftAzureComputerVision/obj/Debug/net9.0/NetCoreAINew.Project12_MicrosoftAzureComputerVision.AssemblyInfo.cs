@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAINew.Project12_MicrosoftAzureComputerVision")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ed432bfdcaf009229e648cb8a7abbf624f4cb58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b5151feea8fb6cf30ebdcaaa06ee4d2378f4bbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAINew.Project12_MicrosoftAzureComputerVision")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAINew.Project12_MicrosoftAzureComputerVision")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

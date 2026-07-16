@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NetCoreAINew.Project17_CodeEditor/1.0.0": {
+        "runtime": {
+          "NetCoreAINew.Project17_CodeEditor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreAINew.Project17_CodeEditor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
