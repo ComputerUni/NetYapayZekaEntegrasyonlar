@@ -1,0 +1,15 @@
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\bin\Debug\net9.0\NetCoreAINew.Project19_VideoGenerator.exe
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\bin\Debug\net9.0\NetCoreAINew.Project19_VideoGenerator.deps.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\bin\Debug\net9.0\NetCoreAINew.Project19_VideoGenerator.runtimeconfig.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\bin\Debug\net9.0\NetCoreAINew.Project19_VideoGenerator.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\bin\Debug\net9.0\NetCoreAINew.Project19_VideoGenerator.pdb
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\obj\Debug\net9.0\NetCoreAINew.Project19_VideoGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\obj\Debug\net9.0\NetCoreAINew.Project19_VideoGenerator.AssemblyInfoInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\obj\Debug\net9.0\NetCoreAINew.Project19_VideoGenerator.AssemblyInfo.cs
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\obj\Debug\net9.0\NetCoreAINew.Project19_VideoGenerator.csproj.CoreCompileInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\obj\Debug\net9.0\NetCoreAINew.Project19_VideoGenerator.sourcelink.json
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\obj\Debug\net9.0\NetCoreAINew.Project19_VideoGenerator.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\obj\Debug\net9.0\refint\NetCoreAINew.Project19_VideoGenerator.dll
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\obj\Debug\net9.0\NetCoreAINew.Project19_VideoGenerator.pdb
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\obj\Debug\net9.0\NetCoreAINew.Project19_VideoGenerator.genruntimeconfig.cache
+C:\Users\BURHAN\Desktop\NetCoreAINew\NetCoreAINew\NetCoreAINew.Project19_VideoGenerator\obj\Debug\net9.0\ref\NetCoreAINew.Project19_VideoGenerator.dll

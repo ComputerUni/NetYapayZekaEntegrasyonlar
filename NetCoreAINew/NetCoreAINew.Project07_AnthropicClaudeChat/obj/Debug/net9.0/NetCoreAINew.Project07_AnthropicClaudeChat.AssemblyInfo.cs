@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAINew.Project07_AnthropicClaudeChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d719109ea864f3347f39f203348b1d58a414f91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8dac5b0e818916e2d8c0062260915c91fc3bea4")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAINew.Project07_AnthropicClaudeChat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAINew.Project07_AnthropicClaudeChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

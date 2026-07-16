@@ -17,4 +17,5 @@
   <Project Path="NetCoreAINew.Project16_AutoAgentPrompt/NetCoreAINew.Project16_AutoAgentPrompt.csproj" Id="d16ea587-74fc-4cff-b16a-6bb57ef3d2f0" />
   <Project Path="NetCoreAINew.Project17_CodeEditor/NetCoreAINew.Project17_CodeEditor.csproj" Id="9871b5f2-b4c4-4272-83d9-0e5491b88aee" />
   <Project Path="NetCoreAINew.Project18_DeepAITextToImage/NetCoreAINew.Project18_DeepAITextToImage.csproj" Id="7ebdff30-d239-4716-9f14-e368ab6cf19e" />
+  <Project Path="NetCoreAINew.Project19_VideoGenerator/NetCoreAINew.Project19_VideoGenerator.csproj" Id="75a765ed-5ec0-431a-9e96-08dce1001df6" />
 </Solution>

@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75A765ED-5EC0-431A-9E96-08DCE1001DF6}|NetCoreAINew.Project19_VideoGenerator\\NetCoreAINew.Project19_VideoGenerator.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project19_videogenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A765ED-5EC0-431A-9E96-08DCE1001DF6}|NetCoreAINew.Project19_VideoGenerator\\NetCoreAINew.Project19_VideoGenerator.csproj|solutionrelative:netcoreainew.project19_videogenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7EBDFF30-D239-4716-9F14-E368AB6CF19E}|NetCoreAINew.Project18_DeepAITextToImage\\NetCoreAINew.Project18_DeepAITextToImage.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project18_deepaitexttoimage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBDFF30-D239-4716-9F14-E368AB6CF19E}|NetCoreAINew.Project18_DeepAITextToImage\\NetCoreAINew.Project18_DeepAITextToImage.csproj|solutionrelative:netcoreainew.project18_deepaitexttoimage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2CFEAC9-5164-421C-9635-D0F2C83DE7B8}|NetCoreAINew.Project10_DrawImage\\NetCoreAINew.Project10_DrawImage.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project10_drawimage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2CFEAC9-5164-421C-9635-D0F2C83DE7B8}|NetCoreAINew.Project10_DrawImage\\NetCoreAINew.Project10_DrawImage.csproj|solutionrelative:netcoreainew.project10_drawimage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9871B5F2-B4C4-4272-83D9-0E5491B88AEE}|NetCoreAINew.Project17_CodeEditor\\NetCoreAINew.Project17_CodeEditor.csproj|c:\\users\\burhan\\desktop\\netcoreainew\\netcoreainew\\netcoreainew.project17_codeeditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9871B5F2-B4C4-4272-83D9-0E5491B88AEE}|NetCoreAINew.Project17_CodeEditor\\NetCoreAINew.Project17_CodeEditor.csproj|solutionrelative:netcoreainew.project17_codeeditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +17,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1986,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 1518,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,25 +35,12 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project18_DeepAITextToImage\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAINew.Project18_DeepAITextToImage\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project18_DeepAITextToImage\\Program.cs",
-              "RelativeToolTip": "NetCoreAINew.Project18_DeepAITextToImage\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T09:59:21.882Z",
-              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 1011,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 1478,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -75,26 +58,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project10_DrawImage\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAINew.Project10_DrawImage\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project10_DrawImage\\Program.cs",
-              "RelativeToolTip": "NetCoreAINew.Project10_DrawImage\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwB8AAABVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project18_DeepAITextToImage\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAINew.Project18_DeepAITextToImage\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project18_DeepAITextToImage\\Program.cs",
+              "RelativeToolTip": "NetCoreAINew.Project18_DeepAITextToImage\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T10:01:37.851Z",
+              "WhenOpened": "2026-07-16T11:22:55.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project17_CodeEditor\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAINew.Project17_CodeEditor\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project17_CodeEditor\\Program.cs",
-              "RelativeToolTip": "NetCoreAINew.Project17_CodeEditor\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project19_VideoGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAINew.Project19_VideoGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAINew\\NetCoreAINew\\NetCoreAINew.Project19_VideoGenerator\\Program.cs",
+              "RelativeToolTip": "NetCoreAINew.Project19_VideoGenerator\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T10:02:14.769Z",
+              "WhenOpened": "2026-07-16T10:44:34.847Z",
               "EditorCaption": ""
             }
           ]
